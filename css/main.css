@@ -1,0 +1,112 @@
+/* Inserte su codigo aqui */
+
+header{
+	background: #FCCE09;
+	color: white;
+}
+
+ul{
+	text-align: right;
+}
+
+ul li{
+	display: inline-block;
+    list-style: none;
+    padding: 2%;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+.sumateb{
+	background: #FCB739;
+    padding: 1% 3%;
+    border: none;
+    position: fixed;
+    z-index: 2;
+}
+button a{
+	text-decoration: none;
+	color: white;
+}
+
+.titulo{
+	text-align: center;
+	padding: 13% 0 25%;
+}
+
+/* seccion*/
+
+section{
+	background: #EAEAE9;
+}
+
+.primeraf, .segundaf{
+
+}
+.muestra{
+	background: white;
+	padding-bottom: 1%;
+	margin: 2%;
+}
+.cubo{
+    height: 300px;
+    width: 300px;
+    background: #CCCCCC;
+    text-align: center;
+    margin: 5% auto;
+}
+.cubo p{
+	padding: 45% 40%
+}
+.muestra h2{
+	color: #868683;
+}
+.lorem{
+	color: #C3C1C3;
+}
+.grey{
+	color: #969696;
+	font-family: 'Oswald', sans-serif;
+}
+.muestra h2, p{
+	text-align: left;
+}
+
+.more{
+	background: #FCB739;
+    padding: 1% 3%;
+    border: none;
+}
+
+/*footer*/
+footer{
+	color: white;
+	padding: 3% 0;
+	background: #323230;
+}
+
+
+.footer-link{
+	display: inline-block;
+}
+
+.caja{
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	padding: 0 7px;
+}
+.skype{
+	height: 25px;
+    margin-bottom: -3%;
+}
+.linkskype{
+	text-decoration: none;
+	color: #2793FD;
+}
+
+.hover:hover{
+	background: #F16529;
+}
